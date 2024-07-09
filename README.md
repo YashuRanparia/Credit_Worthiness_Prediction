@@ -1,4 +1,13 @@
+#Credit Worthiness Prediction
+###It is an internship project assigned to me at Celebal Technologies.
+
 This repo contains the project for Credit Worthiness Prediction using RandomForest where I have used the dataset from UCI.
 Dataset: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
 
-This is an internship project assigned to me at Celebal Technologies.
+##How to run this project:
+1.For running this project simply download the repo content.
+2.After that open terminal and go to the downloaded folder and type command: '''streamlit run app.py'''
+
+You will see the web app in your default browser.
+
+You can STAR this repo, if you like it.
