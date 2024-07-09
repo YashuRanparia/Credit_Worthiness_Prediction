@@ -5,7 +5,8 @@ This repo contains the project for Credit Worthiness Prediction using RandomFore
 Dataset: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
 
 ## How to run this project:
-1.For running this project simply download the repo content.
-2.After that open terminal and go to the downloaded folder and type command: ``` streamlit run app.py ```
+For running this project simply download the repo content.
+
+After that open terminal and go to the downloaded folder and type command: ``` streamlit run app.py ```
 
 You will see the web app in your default browser.
